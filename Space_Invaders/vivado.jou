@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Tue Apr 14 21:02:22 2020
+# Process ID: 7224
+# Current directory: C:/Users/T420s/Dropbox/DTU/3. semester/3-ugers/code/week3/Space_Invaders
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4180 C:\Users\T420s\Dropbox\DTU\3. semester\3-ugers\code\week3\Space_Invaders\hdmi-in.xpr
+# Log file: C:/Users/T420s/Dropbox/DTU/3. semester/3-ugers/code/week3/Space_Invaders/vivado.log
+# Journal file: C:/Users/T420s/Dropbox/DTU/3. semester/3-ugers/code/week3/Space_Invaders\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/T420s/Dropbox/DTU/3. semester/3-ugers/code/week3/Space_Invaders/hdmi-in.xpr}
