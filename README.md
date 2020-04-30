@@ -5,6 +5,6 @@ The project is a software and hardware implementation in C and VHDL of a "modifi
 
 Source code related to the software part of the implementation is located in Space_Invaders > hdmi-in.sdk > HDMI_IN > src
 
-Hardware is implemented by the Xilinx Vivado software using IP cores; board configurations and VHDL of IP cores are located in hdmi-in.ipdefs and hdmi-in.src 
+Hardware is implemented by the Xilinx Vivado software using IP cores; board configurations and VHDL of IP cores are located in hdmi-in.ipdefs and hdmi-in.srcs 
 
 For a detailed description of the project a final report was written to document the work for the final exam (see pdf file)
